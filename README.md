@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hetashridk (Hetashri Kansariwala0
+- 👋 Hi, I’m @hetashridk (Hetashri Kansariwala
 - 👀 I’m interested in Front end developer
 - I know HTML, Tailwind css, Javascript, reactjs, Java, DSA, Nextjs, Node, Expressjs.
 - 🌱 I’m currently learning Grapesjs, API
