@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Grapesjs, API
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach via emailing on hetashrik@gmail.com
+- [![hetashridk's GitHub | Languages Over Time](https://stats.quine.sh/hetashridk/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hetashridk)
+
+- [![hetashridk's GitHub | Stats](https://stats.quine.sh/hetashridk/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hetashridk)
 
 <!---
 hetashridk/hetashridk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
