@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hetashri Kansariwala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetashridk&label=Profile%20views&color=0e75b6&style=flat" alt="hetashridk" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hetashrikansariwala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RkUZBlOS5yTVOqDYzNcBRKTbyOk7riY6/view?usp=sharing](https://drive.google.com/file/d/1RkUZBlOS5yTVOqDYzNcBRKTbyOk7riY6/view?usp=sharing)
+- 📄 Know about my experiences [Check it out!!](https://drive.google.com/file/d/1r7ivx33csNgX6hfwlsJh5EbZgBrq_ss9/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
