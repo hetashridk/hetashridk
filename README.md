@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hetashri Kansariwala</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetashridk&label=Profile%20views&color=0e75b6&style=flat" alt="hetashridk" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetashridk&label=Profile%20views&color=0e75b6&style=flat" alt="hetashridk" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetashridk" alt="hetashridk" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetashridk" alt="hetashridk" /></a> </p> -->
 
 - 🔭 I’m currently working at Erudite Works Private Limited.
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hetashrikansariwala@gmail.com**
 
-- 📄 Here is my portfolio [Hetashri Kansariwala](https:hetashri-kansariwala.vercel.app)
+- 📄 Here is my portfolio [Hetashri Kansariwala]([https:hetashri-kansariwala.vercel.app](https://hetashri-kansariwala.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
