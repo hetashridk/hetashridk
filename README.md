@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetashridk" alt="hetashridk" /></a> </p>
 
-- 🔭 I’m currently working on [PU AI Society](https://puaiso.paruluniversity.ac.in)
+- 🔭 I’m currently working at Erudite Works Private Limited.
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **Full-Stack Gen-AI, LangChain, RAG Systems, Agents**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **FullStack & Salesforce**
 
 - 📫 How to reach me **hetashrikansariwala@gmail.com**
 
-- 📄 Know about my experiences [Check it out!!](https://drive.google.com/file/d/1r7ivx33csNgX6hfwlsJh5EbZgBrq_ss9/view?usp=drivesdk)
+- 📄 Here is my portfolio [Hetashri Kansariwala](https:hetashri-kansariwala.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
