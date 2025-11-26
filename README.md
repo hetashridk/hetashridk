@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hetashrikansariwala@gmail.com**
 
-- 📄 Here is my portfolio [Hetashri Kansariwala]([https:hetashri-kansariwala.vercel.app](https://hetashri-kansariwala.vercel.app/))
+- 📄 Here is my portfolio [Hetashri Kansariwala](https://hetashri-kansariwala.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
